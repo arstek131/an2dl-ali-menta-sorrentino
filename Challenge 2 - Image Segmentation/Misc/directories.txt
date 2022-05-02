@@ -1,0 +1,8 @@
+Bipbip/Haricot
+Bipbip/Mais
+Pead/Haricot
+Pead/Mais
+Roseau/Haricot
+Roseau/Mais
+Weedelec/Haricot
+Weedelec/Mais
