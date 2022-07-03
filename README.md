@@ -87,6 +87,8 @@ The given input was an image and an associated question about it, and the output
 
 [Here](https://github.com/Menta99/an2dl-ali-menta-sorrentino/blob/master/Challenge%203%20-%20Visual%20Question%20Answering/Report_Challenge_3.pdf) you can find a complete description of our approach.
 
+<img src="img_vqa.png">
+
 
 ## Group Members
 - [Arslan Ali](https://github.com/arstek131)
