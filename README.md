@@ -60,6 +60,7 @@ The segmented objects can belong to one of three classes:
 - **54/120 (BipBip Maize)**
 
 [Here](https://github.com/Menta99/an2dl-ali-menta-sorrentino/blob/master/Challenge%202%20-%20Image%20Segmentation/Report_Challenge_2.pdf) you can find a complete description of our approach.
+<img src="img_segmentation.png">
 
 
 ## Visual Question Answering
