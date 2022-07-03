@@ -27,7 +27,7 @@ The goal of this [Challenge](https://www.kaggle.com/c/artificial-neural-networks
 - **27/193**
 
 [Here](https://github.com/Menta99/an2dl-ali-menta-sorrentino/blob/master/Challenge%201%20-%20Image%20Classification/Report_Challenge_1.pdf) you can find a complete description of our approach.
-
+<img src="img_classification.png" width="324" height="324">
 
 ## Image Segmentation
 The goal of the [Challenge](https://competitions.codalab.org/competitions/27176) was to perform precise automatic crop and weed segmentation for the agricoltural sector.
